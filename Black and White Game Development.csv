@@ -1,0 +1,112 @@
+Black and White Game Development
+
+Core Game Features
+1. God/Avatar System
+Player avatar (the god) with different forms/appearances
+God powers and abilities that grow with belief
+Moral alignment system (good vs evil actions)
+Prayer and worship mechanics from villagers
+2. Creature System
+AI creature companion (cow, tiger, ape, etc.)
+Creature learning system (learns from player actions)
+Creature needs (food, sleep, play, attention)
+Creature growth and evolution based on treatment
+Creature AI that mimics player's moral choices
+3. Village/Population Management
+Villager AI with individual needs and behaviors
+Population growth and breeding
+Housing, food production, and resource management
+Villager beliefs and worship levels
+Different villager types (farmers, builders, breeders, etc.)
+4. Magic/Miracle System
+Various spells and miracles (food, wood, heal, storm, fireball, etc.)
+Mana/prayer power system
+Gesture-based casting system
+Spell effectiveness based on belief levels
+Good vs evil spell variants
+5. World/Environment
+3D terrain with multiple islands/lands
+Dynamic weather and day/night cycles
+Destructible environment
+Resource nodes (trees, rocks, food sources)
+Different biomes and landscapes
+6. Territory/Influence System
+Spheres of influence for different gods
+Territory expansion through belief
+Neutral areas to be conquered
+Visual indicators of controlled areas
+Required Inputs/Controls
+1. Mouse Controls
+Primary interaction: Point and click for object selection
+Gesture system: Mouse gestures for casting spells
+Camera control: Mouse movement for camera rotation
+Drag and drop: Moving objects, villagers, resources
+Scroll wheel: Zoom in/out
+2. Keyboard Inputs
+Movement keys: WASD or arrow keys for camera movement
+Hotkeys: Quick access to spells and actions
+Modifier keys: Shift/Ctrl for different interaction modes
+ESC: Pause menu
+Tab: Cycle through interface panels
+3. Interface Systems
+Spell selection: Visual spell book or radial menu
+Creature commands: Direct creature interaction
+Village overview: Population and resource statistics
+Belief meter: Current worship/prayer levels
+Objective tracker: Current goals and missions
+Technical Requirements
+1. Graphics Engine
+3D rendering with dynamic lighting
+Particle effects for spells and weather
+Animation systems for creatures and villagers
+Terrain deformation and destruction
+Water and environmental effects
+2. AI Systems
+Creature learning AI
+Villager behavior simulation
+Enemy AI for opposing gods
+Pathfinding for all moving entities
+3. Physics
+Object physics for throwing/moving items
+Collision detection
+Fluid dynamics for water
+Destruction physics
+4. Audio
+Dynamic music based on moral alignment
+Environmental sounds
+Creature vocalizations
+Spell sound effects
+Villager chatter and reactions
+Game Progression Elements
+1. Campaign/Story Mode
+Multiple lands to conquer
+Scripted challenges and objectives
+Opposing AI gods with different personalities
+Tutorial system for learning game mechanics
+2. Multiplayer Features
+Online god vs god battles
+Cooperative gameplay
+Custom scenario creation
+Leaderboards and statistics
+3. Customization
+Creature appearance customization
+Village building styles
+God avatar customization
+Landscape editing tools
+Development Considerations
+1. Platform Choice
+Game Engine: Unity, Unreal Engine, or custom engine
+Programming Language: C# (Unity), C++ (Unreal), or others
+Target Platforms: MacOS, potentially consoles
+Development Platform: macOS (excellent Unity support, good performance)
+macOS Specific Tools: Xcode for iOS builds, Metal for graphics optimization
+2. Art Assets
+3D models for creatures, villagers, buildings
+Environment textures and materials
+UI graphics and icons
+Animation rigs and sequences
+3. Balancing Systems
+Creature learning curves
+Spell costs and effectiveness
+Population growth rates
+Resource generation and consumption
