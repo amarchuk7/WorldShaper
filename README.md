@@ -42,8 +42,6 @@ Currently in pre-production phase. See [Development_Plan_Daily.md](Development_P
 ## 📁 Repository Structure
 
 - `Development_Plan_Daily.md` - Detailed day-by-day development plan
-- `WorldShaper_Development.csv` - Development tracking spreadsheet
-- `WorldShaper_Development-1.md` - Additional development notes
 
 ## 🎯 Vision
 
