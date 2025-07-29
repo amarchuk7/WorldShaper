@@ -1,7 +1,7 @@
-# Black and White Game - Daily Development Plan
+# WorldShaper - Daily Development Plan
 
 ## Project Overview
-A god-simulation game inspired by Black and White, featuring creature AI, village management, magic systems, and moral alignment mechanics.
+A god-simulation game featuring creature AI, village management, magic systems, and moral alignment mechanics. Guide civilizations, train mystical creatures, and shape worlds through divine intervention as the ultimate WorldShaper.
 
 **Estimated Timeline: 18-24 months (solo developer) | 12-15 months (small team)**
 
